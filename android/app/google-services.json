@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274239511594",
+    "project_id": "iotremote-c8fea",
+    "storage_bucket": "iotremote-c8fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274239511594:android:5727c7258aa1edba77f753",
+        "android_client_info": {
+          "package_name": "com.iotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUMdstgLr3-P1qtc_UgxlkCfI3rs3qos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
